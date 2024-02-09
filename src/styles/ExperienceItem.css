@@ -1,0 +1,38 @@
+.experienceItem {
+    margin: 5px;
+    border-width: 5px;
+    border-color: #242526;
+    background-image: linear-gradient(to bottom right, #ffffff, #baf3f7);
+}
+
+.experienceItem p {
+    margin: 1vw;
+    font-size: 1.5vw;
+    text-align: left;
+    color: black;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.experienceItem h4 {
+    margin: 1vw;
+    font-size: 2vw;
+    text-align: left;
+    color: black;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.experienceItem h2 {
+    margin: 1vw;
+    font-size: 1.5vw;
+    text-align: right;
+    color: black;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.experienceDiv h3 {
+    width: 100%;
+    font-size: 1.5vw;
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif
+}

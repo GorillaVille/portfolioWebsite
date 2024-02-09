@@ -1,0 +1,40 @@
+.about {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+}
+
+.about .aboutLeft {
+    height: 100%;
+    flex: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img {
+    width: 45%;
+    height: 100%;
+}
+
+.about .aboutRight {
+    height: 100%;
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about .aboutRight h1 {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    font-weight: 10;
+    font-size: 2.5vw;
+    margin-left: 30px;
+}
+
+.about .aboutRight p {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    font-weight: 10;
+    font-size: 1.75vw;
+    margin-left: 30px;
+}
